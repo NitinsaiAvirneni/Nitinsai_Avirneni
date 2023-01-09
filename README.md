@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NitinsaiAvirneni
 - 👀 I’m interested in AIML 
 - 🌱 I’m currently learning in Gitam
-- 💞️ I’m looking to collaborate on ROBOTICS
+- 💞️ I’m looking to collaborate on ROBOTICS,in
 - 📫 How to reach me ...
-- reach me on nitinsai.avirneni@gmail.com
+- Reach me on (https://www.linkedin.com/in/nitinsai-avirneni/)
 
 <!---
 NitinsaiAvirneni/NitinsaiAvirneni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
