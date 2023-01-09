@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NitinsaiAvirneni
+- 👋 Hi, I’m @Nitin_sai_Avirneni
 - 👀 I’m interested in AIML 
 - 🌱 I’m currently learning in Gitam
-- 💞️ I’m looking to collaborate on ROBOTICS,in
+- 💞️ I’m looking to collaborate on Robotics,Innovations,Coding and Cool Gadgets
 - 📫 How to reach me ...
 - Reach me on (https://www.linkedin.com/in/nitinsai-avirneni/)
 
